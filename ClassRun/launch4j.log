@@ -1,7 +1,7 @@
 
 
 Version:	3.50
-CmdLine:	F:\Java\Class\ClassManagement\ClassRun\ClassRoom.exe --l4j-debug
+CmdLine:	F:\Java\Class\ClassManagement\ClassRun\ClassRun.exe --l4j-debug
 JNI:		No
 WOW64:		Yes
 Working dir:	F:\Java\Class\ClassManagement\ClassRun\.
@@ -15,6 +15,6 @@ JRE paths:	C:\Program Files\Java\jdk-11\bin;C:\Program Files\Common Files\Oracle
 Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (OK)
 Version string: 1.011.000_019 / 64-Bit (OK)
 Launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe
-Launcher args:	-jar "F:\Java\Class\ClassManagement\ClassRun\ClassRoom.exe"
-Args length:	59/32768 chars
+Launcher args:	-jar "F:\Java\Class\ClassManagement\ClassRun\ClassRun.exe"
+Args length:	58/32768 chars
 Exit code:	0

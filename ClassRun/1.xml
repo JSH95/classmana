@@ -3,7 +3,7 @@
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
   <jar>F:\Java\Class\ClassManagement\ClassRun\classmanagement.jar</jar>
-  <outfile>F:\Java\Class\ClassManagement\ClassRun\ClassRoom.exe</outfile>
+  <outfile>F:\Java\Class\ClassManagement\ClassRun\ClassRun.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
